@@ -1,4 +1,4 @@
 url: "https://jooden.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/jekyll-pages/" # the subpath of your site, e.g. /blog
+baseurl: "/jekyll-pages" # the subpath of your site, e.g. /blog
 title: "jekyll-pages" # the name of your site, e.g. ACME Corp.
 description: "A simple Jekyll test."
